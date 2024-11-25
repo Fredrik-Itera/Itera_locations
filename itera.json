@@ -1,0 +1,21 @@
+{
+  "dateCreated": "2024-11-25T15:30:00.000Z",
+  "createdBy": "fredrik.sjursaether",
+  "shape": "Oval",
+  "locations": [
+    {
+      "id": "1",
+      "city": "Oslo",
+      "street": "Stortingsgata 6, 0109 Oslo",
+      "country": "Norway",
+      "date": "",
+      "url": "https://www.itera.com",
+      "summary": "Headquarters for Itera Norway",
+      "loc": [
+        -78.884761,
+        43.136723
+      ],
+      "numberQA": "15"
+    },
+  ]
+}
