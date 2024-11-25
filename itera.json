@@ -11,10 +11,8 @@
       "date": "",
       "url": "https://www.itera.com",
       "summary": "Headquarters for Itera Norway",
-      "loc": [
-        59.91297450931621, 
-        10.738117185928854
-      ],
+      "latitude": "59.91297450931621",
+      "longitude": "10.738117185928854",
       "numberQA": "15"
     }
   ]
