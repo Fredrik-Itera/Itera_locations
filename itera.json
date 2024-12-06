@@ -10,10 +10,163 @@
       "country": "Norway",
       "date": "",
       "url": "https://www.itera.com",
-      "summary": "Headquarters for Itera Norway",
       "latitude": "59.91297450931621",
       "longitude": "10.738117185928854",
       "numberQA": "15"
+    },
+    {
+      "id": "2",
+      "city": "Bergen",
+      "street": "Strandgaten 18, 5013 Bergen",
+      "country": "Norway",
+      "date": "",
+      "url": "https://www.itera.com",
+      "latitude": "60.39438315139125",
+      "longitude": "5.320967904057485",
+      "numberQA": "4"
+    },
+    {
+      "id": "3",
+      "city": "Fredrikstad",
+      "street": "Storgata 3, 1607 Fredrikstad",
+      "country": "Norway",
+      "date": "",
+      "url": "https://www.itera.com",
+      "latitude": "59.21167481789153",
+      "longitude": "10.937343941811044",
+      "numberQA": "0"
+    },
+    {
+      "id": "4",
+      "city": "Bratislava",
+      "street": "Bottova 2A, 811 09 Bratislava",
+      "country": "Slovakia",
+      "date": "",
+      "url": "https://www.itera.com",
+      "latitude": "48.143854983450495",
+      "longitude": "17.127342838199212",
+      "numberQA": ""
+    },
+    {
+      "id": "5",
+      "city": "Brno",
+      "street": "Vlnena 5, 602 00 Brno",
+      "country": "Czech Republic",
+      "date": "",
+      "url": "https://www.itera.com",
+      "latitude": "49.18982198553779",
+      "longitude": "16.61751191755308",
+      "numberQA": ""
+    },
+    {
+      "id": "6",
+      "city": "Bryne",
+      "street": "Hetlandsgata 9, 4344 Bryne",
+      "country": "Norway",
+      "date": "",
+      "url": "https://www.itera.com",
+      "latitude": "58.7343529821409",
+      "longitude": "5.6505571207364",
+      "numberQA": ""
+    },
+    {
+      "id": "7",
+      "city": "Copenhagen",
+      "street": "Hummeltoftevej 49, 2830 Virum",
+      "country": "Denmark",
+      "date": "",
+      "url": "https://www.itera.com",
+      "latitude": "55.78157681304012",
+      "longitude": "12.484535538650729",
+      "numberQA": ""
+    },
+    {
+      "id": "8",
+      "city": "Herning",
+      "street": "Birk Centerpark 40, 7400 Herning",
+      "country": "Denmark",
+      "date": "",
+      "url": "https://www.itera.com",
+      "latitude": "56.12889306419209",
+      "longitude": "9.025749256372672",
+      "numberQA": ""
+    },
+    {
+      "id": "9",
+      "city": "Krakow",
+      "street": "9 Pawia street, Krakow 31-154",
+      "country": "Poland",
+      "date": "",
+      "url": "https://www.itera.com",
+      "latitude": "50.069617269097876",
+      "longitude": "19.946294786701724",
+      "numberQA": ""
+    },
+    {
+      "id": "10",
+      "city": "Kyiv",
+      "street": "Yaroslavska, 58, 04071 Ukraine",
+      "country": "Ukraine",
+      "date": "",
+      "url": "https://www.itera.com",
+      "latitude": "50.47189376672554",
+      "longitude": "30.519220848087784",
+      "numberQA": ""
+    },
+    {
+      "id": "11",
+      "city": "Lviv",
+      "street": "60 Tarasa Shevchenko street, 79033 Ukraine",
+      "country": "Ukraine",
+      "date": "",
+      "url": "https://www.itera.com",
+      "latitude": "49.81405369444916",
+      "longitude": "24.134809092620383",
+      "numberQA": ""
+    },
+    {
+      "id": "12",
+      "city": "Reykjavik",
+      "street": "Ármúli 13, 108 Reykjavik",
+      "country": "Iceland",
+      "date": "",
+      "url": "https://www.itera.com",
+      "latitude": "64.13843906066569",
+      "longitude": "-21.88163644206501",
+      "numberQA": "0"
+    },
+    {
+      "id": "13",
+      "city": "Stavanger",
+      "street": "Stortingsgata 6, 0109 Oslo",
+      "country": "Norway",
+      "date": "",
+      "url": "https://www.itera.com",
+      "latitude": "58.88735362080496",
+      "longitude": "5.714364610918709",
+      "numberQA": "0"
+    },
+    {
+      "id": "14",
+      "city": "Stockholm",
+      "street": "Kungsgatan 9, 111 43 Stockholm",
+      "country": "Sweden",
+      "date": "",
+      "url": "https://www.itera.com",
+      "latitude": "59.33587812153338",
+      "longitude": "18.06987647566512",
+      "numberQA": "0"
+    },
+    {
+      "id": "15",
+      "city": "Zilina",
+      "street": "Rosinská cesta 8, 010 08 Žilina",
+      "country": "Slovakia",
+      "date": "",
+      "url": "https://www.itera.com",
+      "latitude": "49.198428153569125",
+      "longitude": "18.768746628858594",
+      "numberQA": ""
     }
   ]
 }
